@@ -1,3 +1,5 @@
+hello github
+
 # XiangShanLab：香山处理器学习与实践仓库
 
 [English](./README_EN.md) | [香山官网](https://openxiangshan.cc/) | [GitHub Issues](https://github.com/OpenXiangShan/XiangShanLab/issues)
